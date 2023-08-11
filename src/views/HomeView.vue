@@ -1,7 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <img alt="Pozadinska slika" class="Background" />
   </div>
 </template>
 
@@ -16,3 +15,11 @@ export default {
   },
 };
 </script>
+<style scoped>
+.Background {
+  position: relative;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+</style>
