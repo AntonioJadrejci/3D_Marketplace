@@ -3,7 +3,7 @@
     <img
       alt="Pozadinska slika"
       class="Background"
-      src="C:\users\user\Documents\Github\3D_Marketplace\3d_marketplace\3d_marketplace\src\assets\Background.png"
+      src="../assets/Background.png"
     />
   </div>
 </template>
